@@ -1,0 +1,70 @@
+E:\Project C#\WinForm\QuanLyTaiSan_Project\QuanLyTaiSan_Project\bin\Debug\QuanLyTaiSan_Project.exe.config
+E:\Project C#\WinForm\QuanLyTaiSan_Project\QuanLyTaiSan_Project\bin\Debug\QuanLyTaiSan_Project.exe
+E:\Project C#\WinForm\QuanLyTaiSan_Project\QuanLyTaiSan_Project\bin\Debug\QuanLyTaiSan_Project.pdb
+E:\Project C#\WinForm\QuanLyTaiSan_Project\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.csprojResolveAssemblyReference.cache
+E:\Project C#\WinForm\QuanLyTaiSan_Project\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.FDangNhap.resources
+E:\Project C#\WinForm\QuanLyTaiSan_Project\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.Properties.Resources.resources
+E:\Project C#\WinForm\QuanLyTaiSan_Project\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.csproj.GenerateResource.Cache
+E:\Project C#\WinForm\QuanLyTaiSan_Project\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.exe
+E:\Project C#\WinForm\QuanLyTaiSan_Project\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.pdb
+E:\Project C#\WinForm\QuanLyTaiSan_Project\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.FMain.resources
+D:\qlts1\QuanLyTaiSan_Project\bin\Debug\QuanLyTaiSan_Project.exe.config
+D:\qlts1\QuanLyTaiSan_Project\bin\Debug\QuanLyTaiSan_Project.exe
+D:\qlts1\QuanLyTaiSan_Project\bin\Debug\QuanLyTaiSan_Project.pdb
+D:\qlts1\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.csproj.AssemblyReference.cache
+D:\qlts1\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.FDangNhap.resources
+D:\qlts1\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.FMain.resources
+D:\qlts1\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.Properties.Resources.resources
+D:\qlts1\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.csproj.GenerateResource.cache
+D:\qlts1\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.csproj.CoreCompileInputs.cache
+D:\qlts1\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.exe
+D:\qlts1\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.pdb
+E:\Project C#\QuanLyTaiSan_Project\QuanLyTaiSan_Project\bin\Debug\QuanLyTaiSan_Project.exe.config
+E:\Project C#\QuanLyTaiSan_Project\QuanLyTaiSan_Project\bin\Debug\QuanLyTaiSan_Project.exe
+E:\Project C#\QuanLyTaiSan_Project\QuanLyTaiSan_Project\bin\Debug\QuanLyTaiSan_Project.pdb
+E:\Project C#\QuanLyTaiSan_Project\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.FDangNhap.resources
+E:\Project C#\QuanLyTaiSan_Project\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.FMain.resources
+E:\Project C#\QuanLyTaiSan_Project\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.Properties.Resources.resources
+E:\Project C#\QuanLyTaiSan_Project\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.csproj.GenerateResource.Cache
+E:\Project C#\QuanLyTaiSan_Project\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.exe
+E:\Project C#\QuanLyTaiSan_Project\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.pdb
+E:\Project C#\QuanLyTaiSan_Project\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.FDoiMatKhau.resources
+E:\Project C#\QuanLyTaiSan_Project\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.csprojResolveAssemblyReference.cache
+E:\Project C#\QuanLyTaiSan_Project\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.FThietLapDanhMuc.resources
+E:\Project C#\QuanLyTaiSan_Project\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.FThemDanhMucThietBi.resources
+E:\Project C#\WinForm\QuanLyTaiSan_Project\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.FDoiMatKhau.resources
+E:\Project C#\WinForm\QuanLyTaiSan_Project\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.FThemDanhMucThietBi.resources
+E:\Project C#\WinForm\QuanLyTaiSan_Project\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.FThietLapDanhMuc.resources
+E:\Project C#\WinForm\QuanLyTaiSan_Project\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.FQuenMatKhau.resources
+E:\Project C#\WinForm\QuanLyTaiSan_Project\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.FXetDuyetPhieu.resources
+E:\Project C#\WinForm\QuanLyTaiSan_Project\QuanLyTaiSan_Project\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Project C#\WinForm\QuanLyTaiSan_Project\QuanLyTaiSan_Project\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Project C#\WinForm\QuanLyTaiSan_Project\QuanLyTaiSan_Project\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\Project C#\WinForm\QuanLyTaiSan_Project\QuanLyTaiSan_Project\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\Project C#\WinForm\QuanLyTaiSan_Project\QuanLyTaiSan_Project\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\Project C#\WinForm\QuanLyTaiSan_Project\QuanLyTaiSan_Project\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\Project C#\WinForm\QuanLyTaiSan_Project\QuanLyTaiSan_Project\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\Project C#\WinForm\QuanLyTaiSan_Project\QuanLyTaiSan_Project\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\Project C#\WinForm\QuanLyTaiSan_Project\QuanLyTaiSan_Project\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\Project C#\WinForm\QuanLyTaiSan_Project\QuanLyTaiSan_Project\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\Project C#\WinForm\QuanLyTaiSan_Project\QuanLyTaiSan_Project\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\Project C#\WinForm\QuanLyTaiSan_Project\QuanLyTaiSan_Project\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\Project C#\WinForm\QuanLyTaiSan_Project\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.FPhieu.resources
+D:\QuanLyTS\QuanLyTaiSan_Project\bin\Debug\QuanLyTaiSan_Project.exe.config
+D:\QuanLyTS\QuanLyTaiSan_Project\bin\Debug\QuanLyTaiSan_Project.exe
+D:\QuanLyTS\QuanLyTaiSan_Project\bin\Debug\QuanLyTaiSan_Project.pdb
+D:\QuanLyTS\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.csproj.AssemblyReference.cache
+D:\QuanLyTS\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.FDangNhap.resources
+D:\QuanLyTS\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.FDoiMatKhau.resources
+D:\QuanLyTS\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.FMain.resources
+D:\QuanLyTS\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.FPhieu.resources
+D:\QuanLyTS\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.FQuenMatKhau.resources
+D:\QuanLyTS\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.FThemDanhMucThietBi.resources
+D:\QuanLyTS\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.FThietLapDanhMuc.resources
+D:\QuanLyTS\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.FXetDuyetPhieu.resources
+D:\QuanLyTS\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.Properties.Resources.resources
+D:\QuanLyTS\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.csproj.GenerateResource.cache
+D:\QuanLyTS\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.csproj.CoreCompileInputs.cache
+D:\QuanLyTS\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.csproj.CopyComplete
+D:\QuanLyTS\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.exe
+D:\QuanLyTS\QuanLyTaiSan_Project\obj\Debug\QuanLyTaiSan_Project.pdb
